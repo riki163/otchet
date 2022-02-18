@@ -1,7 +1,7 @@
 # Практика за 1-й курс
 ## ИСР 
 [задание 1.1. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%201.1.%20%D0%98%D0%A1%D0%A0.docx)
-<p> [задание 1.2. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%201.2.%20%D0%98%D0%A1%D0%A0.png)
+[задание 1.2. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%201.2.%20%D0%98%D0%A1%D0%A0.png)
 [задание 1.3. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%201.3.%20%D0%98%D0%A1%D0%A0.docx)
 [задание 1.4. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%20%D0%98%D0%A1%D0%A0%201.4.docx)
 [задание 1.5. ИСР](https://github.com/riki163/otchet/blob/main/%D0%92%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%9E.%20%D0%98%D0%A1%D0%A0%201.5.docx)
